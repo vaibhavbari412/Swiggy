@@ -2,7 +2,7 @@
 # 🛵 Swiggy Advanced Business Analytics with SQL  
 > 📍 Solving 20 real-world business problems using SQL on a Snowflake-inspired schema
 
-![Project Banner](./A_2D_digital_illustration_banner_for_a_SQL_project.png)
+![Project Banner](https://github.com/vaibhavbari412/Swiggy/blob/main/Swiggy.png)
 
 ---
 
@@ -14,7 +14,7 @@ I stepped into the role of a **Data Analyst** for Swiggy, built a **Snowflake-in
 ## 🧊 Schema Design
 Built using best practices of a Snowflake-inspired schema (high normalization):
 
-![ERD](./Swiggy%20ERD.png)
+![ERD](https://github.com/vaibhavbari412/Swiggy/blob/main/Swiggy%20ERD.png)
 
 📌 Tables:  
 - `customers`
@@ -23,14 +23,14 @@ Built using best practices of a Snowflake-inspired schema (high normalization):
 - `deliveries`
 - `riders`
 
-> See full schema in [`SWIGGY SCHEMA.sql`](./SWIGGY%20SCHEMA.sql)
+> See full schema in [`SWIGGY SCHEMA.sql`]([./SWIGGY%20SCHEMA.sql](https://github.com/vaibhavbari412/Swiggy/blob/main/Swiggy_Analysis.sql))
 
 ---
 
 ## 🧠 Key Business Problems & SQL Solutions
 
 Below are **15 of the 20** advanced business problems solved:  
-*(Full queries 👉 [`Swiggy_Analysis.sql`](./Swiggy_Analysis.sql))*
+*(Full queries 👉 [`Swiggy_Analysis.sql`]([./Swiggy_Analysis.sql](https://github.com/vaibhavbari412/Swiggy/blob/main/Swiggy_Analysis.sql)))*
 
 ---
 
@@ -243,16 +243,6 @@ GROUP BY r.city;
 ├── Swiggy_Analysis.sql
 └── README.md
 ```
-
----
-
-## 🖼️ Add Visuals & Branding
-- Project banner:  
-  `![Banner](./A_2D_digital_illustration_banner_for_a_SQL_project.png)`
-- ERD diagram:  
-  `![ERD](./Swiggy%20ERD.png)`
-- Optional dashboard / GIF:  
-  `![Dashboard](./dashboard.png)`
 
 ---
 
